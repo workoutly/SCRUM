@@ -1,6 +1,6 @@
 # SCRUM
 
-## Sprint 1 (07/03/2022-13/03/2022)
+## Sprint 1 (07/03/2022-13/03/2022)  
   El día 8, tuvimos nuestra primera reunión con el cliente. A continuación el resto de días nos repartimos entre todos distintas tareas:  
    - __Alberto Cano__ y __David Pérez__: Tuvieron más reuniones con el cliente y se encargaron de elaborar un documento con la definición del problema, objetivos a buscar, etc.   
    - __Antonio Moruno__ y __Moises Moyano__: Se encargaron de buscar un servidor en el que alojar la aplicación y se dedicaron a hacer pruebas en él.  
@@ -20,12 +20,12 @@
    - __Documentación parcialmente documentada__ con contexto de la app, recursos, definición del problema y objetivos del mismo. En el siguiente sprint seguiremos trabajandolo.    
    - __Esqueleto del stack de Frontend__ y __esqueleto de API + BD__.  
       
-   En los siguientes sprints, tenemos pensado tener más reuniones con el cliente, recogida de requisitos, elaboración de casos de uso e historias de usuario, etc.
+   En los siguientes sprints, tenemos pensado tener más reuniones con el cliente, recogida de requisitos, elaboración de casos de uso, etc.
 
 
 
 
-  ## Sprint 2 (14/03/2022-17/03/2022 12:00 AM)
+  ## Sprint 2 (14/03/2022-17/03/2022 12:00 AM)  
    Al igual que el sprint anterior, todos los miembros del grupo nos repartimos tareas:  
    - __Alberto Cano__, __David Pérez__ y __Antonio Moruno__: Siguieron elaborando elaborando el documento y tuvieron una reunion con el cliente para la toma de     requisitos.   
    - __Moises Moyano__: Se encargo en realizar varios diseños preliminares de como sería la app.  
@@ -39,4 +39,16 @@
    - __Documentación parcialmente documentada__ con contexto de la app, recursos, definición del problema, alcance del sistema, antecedentes, especificación de requisitos y objetivos del problema. En el siguiente sprint seguiremos trabajandolo.      
    - __Esqueleto del stack de Frontend__ y __esqueleto de API + BD__.  
 
-  En los siguientes sprints, tenemos pensado tener más reuniones con el cliente, elaboración de casos de uso, historias de usuario, etc y finalizaremos el documento.
+  En los siguientes sprints, tenemos pensado tener más reuniones con el cliente, elaboración de casos de uso, etc y finalizaremos el documento.
+
+
+## Sprint 3 (17/03/2022-20/03/2022)  
+  Al igual que el sprint anterior, todos los miembros del grupo nos repartimos tareas:  
+  - __Alberto Cano__: Se encargo de realizar los diagramas de actividad.  
+  - __Moises Moyano__: Se encargo de elaborar la presentación para el cliente.  
+  - __Javier De Santiago__, __David Pérez__ y __Antonio Moruno__: Se encargaron de revisar la documentación anterior, definieron los casos de uso y realizaron el diagrama de casos de uso.  
+
+
+A dia de hoy (20/03/2022) tenemos:  
+   - __Documentación completamente terminada__.     
+   - __Esqueleto del stack de Frontend__ y __esqueleto de API + BD__.  
