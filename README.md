@@ -1,4 +1,4 @@
-# SCRUM
+# SCRUM 🗺️
 
 ## Sprint 1 (07/03/2022-13/03/2022)  
   El día 8, tuvimos nuestra primera reunión con el cliente. A continuación el resto de días nos repartimos entre todos distintas tareas:  
