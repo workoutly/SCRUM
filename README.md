@@ -25,6 +25,7 @@
 
 
 
+
   ## Sprint 2 (14/03/2022-17/03/2022 12:00 AM)  
    Al igual que el sprint anterior, todos los miembros del grupo nos repartimos tareas:  
    - __Alberto Cano__, __David Pérez__ y __Antonio Moruno__: Siguieron elaborando elaborando el documento y tuvieron una reunion con el cliente para la toma de     requisitos.   
@@ -42,6 +43,9 @@
   En los siguientes sprints, tenemos pensado tener más reuniones con el cliente, elaboración de casos de uso, etc y finalizaremos el documento.
 
 
+
+
+
 ## Sprint 3 (17/03/2022-20/03/2022)  
   Al igual que el sprint anterior, todos los miembros del grupo nos repartimos tareas:  
   - __Alberto Cano__: Se encargo de realizar los diagramas de actividad.  
@@ -52,3 +56,30 @@
 A dia de hoy (20/03/2022) tenemos:  
    - __Documentación completamente terminada__.     
    - __Esqueleto del stack de Frontend__ y __esqueleto de API + BD__.  
+
+
+
+
+
+## Sprint 4 (21/03/2022-27/03/2022)  
+  Una vez presentado nuestra propuesta al cliente y mostrada una versión pre-alpha incial de la aplicación, este nos dio su visto bueno y decidimos tomarnos la semana de descanso para este proyecto debido a que teníamos que continuar desarrollando otros proyectos de diversos clientes.
+  
+  
+  
+  
+## Sprint 5 (28/03/2022-03/04/2022)  
+   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE. En esta primera semana, comenzamos con el desarrollo del modelo de contenido y el modelo de usuario:
+   - __Alberto Cano__, __David Pérez__ y __Antonio Moruno__: Se encargaron de realizar el modelo de contenido.
+   - __Moises Moyano__ y __Javier De Santiago__: Se encargaron de realizar el modelo de usuario.
+   
+   
+   
+   
+## Sprint 6 (04/04/2022-10/04/2022)  
+   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE 
+   
+   
+   
+   
+## Sprint 7 (18/04/2022-24/04/2022)  
+   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
