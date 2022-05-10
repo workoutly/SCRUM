@@ -68,18 +68,41 @@ A dia de hoy (20/03/2022) tenemos:
   
   
 ## Sprint 5 (28/03/2022-03/04/2022)  
-   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE. En esta primera semana, comenzamos con el desarrollo del modelo de contenido y el modelo de usuario:
-   - __Alberto Cano__, __David Pérez__ y __Antonio Moruno__: Se encargaron de realizar el modelo de contenido.
+   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE. En esta primera semana, comenzamos con el desarrollo del modelado de contenido (el cual inclutye el modelo de contenido y el modelo de usuario) y modelado de navegación:
+   - __Alberto Cano__, __David Pérez__ : Se encargaron de realizar el modelo de contenido.
    - __Moises Moyano__ y __Javier De Santiago__: Se encargaron de realizar el modelo de usuario.
+   - __Antonio Moruno__: Se encargo de realizar el modelo de navegación una vez terminamos los modelos de contenido y usuario, pues este depende de los anteriores.
    
    
    
    
 ## Sprint 6 (04/04/2022-10/04/2022)  
-   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE 
-   
+   Una vez finalizados los modelos de contenido, usuario y navegación, nos dispusimos a realizar el modelado de proceso, el cual incluye los modelos de estructura del proceso y flujo del proceso:  
+   - __Antonio Moruno__: Se encargo de realizar el modelo de estructura del proceso.  
+   - __Alberto Cano__, __David Pérez__, __Moises Moyano__ y __Javier De Santiago__: Se encargaron de realizar los diversos modelos de flujo del proceso para cada     << process class >> del modelo de estructura del proceso.  
    
    
    
 ## Sprint 7 (18/04/2022-24/04/2022)  
+   Una vez finalizada Semana Santa, volvimos al trabajo. Debido al gran número de modelos de flujo del proceso, tuvimos que continuar realizando modelos en este sprint. Además, finalizamos realizando el modelado de presentación y dando por finalizado el modelado en UWE:  
+   - __Alberto Cano__, __David Pérez__, __Moises Moyano__ y __Javier De Santiago__: Continuaron realizando los modelos de flujo del proceso.  
+   - __Antonio Moruno__: Se encargo de realizar el modelado de presentación.  
+   
+   
+  
+   
+## Sprint 8 (25/04/2022-01/05/2022)  
    El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
+   
+   
+   
+   
+## Sprint 9 (02/05/2022-08/05/2022)  
+   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
+   
+   
+   
+   
+ ## Sprint 10 (09/05/2022-15/05/2022)  
+   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
+   
