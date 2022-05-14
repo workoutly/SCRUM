@@ -92,17 +92,31 @@ A dia de hoy (20/03/2022) tenemos:
   
    
 ## Sprint 8 (25/04/2022-01/05/2022)  
-   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
-   
+   A partir de este sprint, el equipo comenzó a desarrollar todo el "groso" de la aplicación. Dividimos todas las funciones a implementar y las añadimos al Backlog del Kanban. En esta primera semana realizamos:  
+   - __Alberto Cano__: Se encargó de realizar la funcionalidad para poder eliminar ejercicios.  
+   - __Antonio Moruno__: Mientras que de manera paralela estaba realizando el Frontend de la aplicación, realizó la funcionalidad de registro de usuarios.  
+   - __David Pérez__: Se encargó de realizar el log out de los usuarios de la aplicación.  
+   - __Moises Moyano__: Se encargó de realizar el login de los usuarios de la aplicación.  
+   - __Javier De Santiago__: Se encargó de realizar la funcionalidad para crear ejercicios junto a Alberto y se encargo de realizar la funcionalidad para editar ejercicios.  
    
    
    
 ## Sprint 9 (02/05/2022-08/05/2022)  
-   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
+   El equipo entero continuó el desarrollo de la aplicación:
+   - __Alberto Cano__: Junto a Javier, terminó de realizar la funcionalidad para poder crear ejercicios y comenzó a realizar la funcionalidad para editar rutinas.  
+   - __Antonio Moruno__: Continuo desarrollando el Frontend y junto a Javier comenzó a realzar la funcionalidad para crear rutinas.  
+   - __David Pérez__: Realizó la funcionalidad para pdoer buscar usuarios y junto a Javier comenzaron a realizar la funcionalidad para borrar rutinas.  
+   - __Moises Moyano__: Realizó la funcionalidad para poder editar el perfil del usuario.  
+   - __Javier De Santiago__: Se encargó de realizar la funcionalidad para crear ejercicios junto a Alberto y junto a Moises comenzó a realizar la funcionalidad para seguir rtuinas.  
    
    
    
    
  ## Sprint 10 (09/05/2022-15/05/2022)  
-   El equipo entero retomo el desarrollo de la aplicacion y nos dedicamos a realizar el desarrollo de los distintos modelados de UWE
+   Última semana, acabamos con el desarrollo de la aplicación y realizamos el deployment en un servidor que nosostros tenemos:
+   - __Alberto Cano__: Se encargó de realizar el test para la usabilidad y la interfaz.  
+   - __Antonio Moruno__: Termino de realizar el Frontend y realizó los tests de seguridad y compatibilidad.  
+   - __David Pérez__: Junto a Javier termino la funcionalidad para eliminar rutinas y realizo el test de rendimiento.  
+   - __Moises Moyano__: Se encargó de realizar el test de la base de datos.  
+   - __Javier De Santiago__: Junto a Moises termino la funcionalidad para poder seguir rutinas, realizo el test de la funcionalidad del sistema y realizo el deployment en el servidor.  
    
