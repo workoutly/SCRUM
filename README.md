@@ -120,3 +120,6 @@ A dia de hoy (20/03/2022) tenemos:
    - __Moises Moyano__: Se encargó de realizar el test de la base de datos.  
    - __Javier De Santiago__: Junto a Moises termino la funcionalidad para poder seguir rutinas, realizo el test de la funcionalidad del sistema y realizo el deployment en el servidor.  
    
+
+## Burndown Chart
+![Screenshot 2022-05-14 232140](https://user-images.githubusercontent.com/55747717/168490334-1fb7798e-5586-4180-bcd1-df68e9af33ca.png)
